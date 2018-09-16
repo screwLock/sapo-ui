@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import NavBar from './components/NavBar.js';
-import Sidebar from './components/Sidebar/Sidebar.js';
-import Main from './components/Main.js';
+import NavBar from './NavBar.js';
+import Sidebar from './Sidebar/Sidebar.js';
+import Main from './Main.js';
 
 class App extends Component {
   render() {
